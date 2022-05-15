@@ -3,12 +3,13 @@ import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
+import expressjs from '../assets/expressjs.png';
 import figma from '../assets/figma.png';
 import flutter from '../assets/flutter.png';
 import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
 import html from '../assets/html.png';
-import javascript from '../assets/javascript.png';
+import javascript1 from '../assets/javascript1.png';
 import mongodb from '../assets/mongodb.png';
 import mu5 from '../assets/mu5.png';
 import node from '../assets/node.png';
@@ -42,12 +43,13 @@ export default {
   api,
   cpp,
   css,
+  expressjs,
   figma,
   flutter,
   git,
   graphql,
   html,
-  javascript,
+  javascript1,
   mongodb,
   mu5,
   node,
